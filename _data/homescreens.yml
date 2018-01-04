@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 - image_url: /assets/images/thumbs/0144.jpg
   full_path: /assets/images/webm/0144.webm
   col-size: col-1
   type: webm
+=======
+- image_url: /assets/images/thumbs/0144.png
+  full_path: /assets/images/full/0144.png
+  col-size: col-1
+  type: png
+>>>>>>> origin/master
 
 - image_url: /assets/images/thumbs/0143.png
   full_path: /assets/images/full/0143.png
