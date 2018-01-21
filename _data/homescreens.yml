@@ -1,3 +1,8 @@
+- image_url: /assets/images/thumbs/0146.png
+  full_path: /assets/images/full/0146.png
+  col-size: col-1
+  type: png
+
 - image_url: /assets/images/thumbs/0145.jpg
   full_path: /assets/images/webm/0145.webm
   col-size: col-1
