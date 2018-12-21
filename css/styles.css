@@ -66,7 +66,7 @@ img:not([src]) {
 	padding: 1% 5%;
 }
 .navbar a {
-	color: #ffffff;
+	color: #789fda;
 }
 .navbar a:hover {
 	text-decoration: underline;
