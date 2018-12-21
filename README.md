@@ -1,20 +1,22 @@
-# homescreens.github.io
-This is a website project to display inspiration images for the /wg/ offical homepage thread.
-Currently, it is featuring the imgur album in the /wg/ post, but soon more will be added.
+# redesign
+Redesign of homescreens.org
 
-# To-do
-- [x] import homescreens from imgur album
-- [ ] setup the wiki/resources/faq
-- [ ] functionality and aesthetics
-   - [ ] webm/gif functionality
-- [ ] dank memes  ˙͜>˙ :^)
-- [ ] implement infinite scrolling so the page isnt 3 miles long on load
-- [ ] original Favicon.ico
-- [ ] clean up HTML and CSS once site is completed
-- [x] make columns split to one row earlier for mobile
-- [x] potentially purchase a domain name
-   - http://homescreens.org
-- [ ] font changes (especially the title)
-- [ ] Credit Play Icon creator
+## Demo
+Available [here](https://morr.netlify.com)
 
-http://homescreens.github.io
+## Things to work on
+- general design
+
+## Description
+
+### `resize.sh`
+This bash script takes in image/video files and creates a thumbnail from the original image. The two, original and thumbnail, are put into their respective directories. Then HTML is echoed to be put into the appropriate file, in this case `index.html`.
+
+### Masonry
+The grid item tiling is done through [Salvattore](https://salvattore.js.org/)
+
+### Lazy loading
+Utilized [lazyload](https://github.com/verlok/lazyload)
+
+### Icons
+Utilized [Jam](https://jam-icons.com/). This is to indicate that a thumbnail leads to a webm or gif.
