@@ -48,7 +48,7 @@ img:not([src]) {
 	max-width: 500px;
 }
 .content a {
-	color: #000000;
+	color: #789fda;
 }
 .content a:hover {
 	text-decoration: underline;
@@ -66,7 +66,7 @@ img:not([src]) {
 	padding: 1% 5%;
 }
 .navbar a {
-	color: #789fda;
+	color: #ffffff;
 }
 .navbar a:hover {
 	text-decoration: underline;
