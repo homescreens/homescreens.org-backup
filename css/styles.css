@@ -39,6 +39,7 @@ img:not([src]) {
 	background-color: #eef2ff;
 	padding: 1% 5%;
 	margin-bottom: 2%;
+	color: #515151;
 }
 #timeline {
 	margin: 0% 5%;
