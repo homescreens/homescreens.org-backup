@@ -1,0 +1,2 @@
+thumb/* filter=lfs diff=lfs merge=lfs -text
+full/* filter=lfs diff=lfs merge=lfs -text
